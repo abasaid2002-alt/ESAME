@@ -1,0 +1,146 @@
+/* Your styles here */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #e3e6e6;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+.logo {
+  font-size: 24px;
+  font-weight: bold;
+  background-color: #222f3f;
+  padding: 10px 15px;
+}
+
+.nav {
+  background-color: #364759;
+  padding: 5px 15px;
+}
+.nav a {
+  margin-top: 8px;
+  font-size: 13px;
+  color: white;
+  margin-right: 25px;
+  text-decoration: none;
+}
+
+.contenuto {
+  margin: 25px;
+}
+
+.uno {
+  text-align: center;
+  margin-bottom: 25px;
+  background-color: #f26700;
+  padding: 8px;
+}
+
+.uno p {
+  color: white;
+}
+
+.due {
+  background-image: url("../images/bg-image.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  text-align: center;
+  color: white;
+  padding: 25px;
+  margin-bottom: 15px;
+}
+
+.due h1 {
+  margin-bottom: 20px;
+  font-size: 25px;
+}
+
+.tre {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  background-color: white;
+}
+
+.tre h2 {
+  padding-top: 15px;
+  margin-left: 30px;
+  font-size: 20px;
+}
+
+.tre h2 a {
+  text-decoration: none;
+  color: blue;
+  margin-left: 10px;
+}
+
+.card {
+  display: inline-block;
+  width: 23%;
+  height: 220px;
+  background-color: #ffffff;
+  box-shadow: 0 2px 4px;
+  border-radius: 12px;
+  overflow: hidden;
+  margin: 10px 0.5%;
+  vertical-align: top;
+}
+
+.box-card {
+  text-align: center;
+  padding-bottom: 8px;
+}
+
+.card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.VR {
+  margin-bottom: 15px;
+}
+
+.quattro p {
+  margin-top: 10px;
+  text-align: center;
+}
+
+.quattro p a {
+  text-decoration: none;
+  color: #13787d;
+  margin-left: 10px;
+}
+
+.back {
+  background-color: #364759;
+  text-align: center;
+  padding: 10px 0;
+  margin-top: 18px;
+}
+
+.back a {
+  color: #ffffff;
+  font-size: 20px;
+}
+
+.footer {
+  font-size: 24px;
+  font-weight: bold;
+  background-color: #222f3f;
+  padding: 20px 0;
+}
+
+.end {
+  text-align: center;
+  padding: 3rem 0;
+}
+
+.end img {
+  display: block;
+  margin: 0 auto;
+}
